@@ -6,6 +6,8 @@
 ### 信息技术爱好者，编程废材。  
 [我的博客(Hexo)](https://stblog.penclub.club)  [我的博客(Solo)](https://penclub.imfast.io)
 
+![统计](https://github-readme-stats.vercel.app/api?username=lixiang810&show_icons=true)
+
 <!--
 **lixiang810/lixiang810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
