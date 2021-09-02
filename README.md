@@ -4,6 +4,8 @@
 ### 未曾打算代表任何人，也不喜被任何人代表。  
 ### 只说自己的话。不会替人写字。  
 ### 信息技术爱好者，编程废材。  
+### 会 js / ts。
+
 [我的博客(Hexo)](https://stblog.penclub.club)  [我的博客(Solo)](https://penclub.imfast.io)
 
 ![统计](https://github-readme-stats.vercel.app/api?username=lixiang810&show_icons=true)
