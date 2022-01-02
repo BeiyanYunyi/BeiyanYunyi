@@ -1,12 +1,11 @@
-### 迷茫者。规则的否定者，秩序的批判者。  
-### 现同 70 亿同胞共居 Sol.3。  
-### 想得很多，想说的也多，说得很少。  
-### 未曾打算代表任何人，也不喜被任何人代表。  
-### 只说自己的话。不会替人写字。  
-### 信息技术爱好者，编程废材。  
-### 会 js / ts。
+### 反建制国际主义左翼
+### TypeScript / JavaScript Programmer
 
-[我的博客(Hexo)](https://stblog.penclub.club)  [我的博客(Solo)](https://penclub.imfast.io)
+```javascript
+`mt${ψ(x,y,z,t)}`
+```
+
+[我的博客(Hexo)](https://stblog.penclub.club)  
 
 ![统计](https://github-readme-stats.vercel.app/api?username=lixiang810&show_icons=true)
 ![代码](https://github-readme-stats.vercel.app/api/top-langs?username=lixiang810&show_icons=true)
