@@ -1,4 +1,4 @@
-### 反建制国际主义左翼
+### 国际主义左翼（反建制）
 ### TypeScript / JavaScript Programmer
 
 ```javascript
