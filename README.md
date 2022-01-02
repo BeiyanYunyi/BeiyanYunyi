@@ -1,11 +1,11 @@
-### 国际主义左翼（反建制）
+### Internationalist Left (anti-establishment)
 ### TypeScript / JavaScript Programmer
 
 ```javascript
 `mt${ψ(x,y,z,t)}`
 ```
 
-[我的博客(Hexo)](https://stblog.penclub.club)  
+[My Blog (Hexo)](https://stblog.penclub.club)  
 
 ![统计](https://github-readme-stats.vercel.app/api?username=lixiang810&show_icons=true)
 ![代码](https://github-readme-stats.vercel.app/api/top-langs?username=lixiang810&show_icons=true)
