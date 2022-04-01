@@ -1,6 +1,6 @@
 ### Internationalist Left (anti-establishment)
 
-### TypeScript / JavaScript Programmer
+### TypeScript / JavaScript / Rust Programmer
 
 ```javascript
 `mt${ψ(x,y,z,t)}`
