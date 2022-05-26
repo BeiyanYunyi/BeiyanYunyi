@@ -3,7 +3,7 @@
 ### TypeScript / JavaScript / Rust Programmer
 
 $$
-\mathrm{gender=mt}\psi(x,y,z,t)
+\mathrm{gender=mt}\Psi(x,y,z,t)
 $$
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,rust,vscode,fortran,arduino,cloudflare,docker,electron,emotion,git,heroku,linux,latex,md,mongodb,mysql,nodejs,ps,pr,postgres,raspberrypi,redis,redux,regex,tailwind,workers,bash)](https://skillicons.dev)
