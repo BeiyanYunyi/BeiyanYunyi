@@ -6,7 +6,7 @@ $$
 \mathrm{gender=mt}\Psi(x,y,z,t)
 $$
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,rust,vscode,fortran,arduino,cloudflare,docker,electron,emotion,git,heroku,linux,latex,md,mongodb,mysql,nodejs,ps,pr,postgres,raspberrypi,redis,redux,regex,tailwind,workers,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,vite,rust,vscode,express,fediverse,materialui,fortran,arduino,cloudflare,docker,electron,emotion,git,heroku,linux,latex,md,mongodb,mysql,nodejs,nginx,ps,pr,postgres,raspberrypi,redis,redux,regex,sqlite,tailwind,workers,bash)](https://skillicons.dev)
 
 [My Blog](https://stblog.penclub.club)
 
