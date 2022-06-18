@@ -2,11 +2,25 @@
 
 ### TypeScript / JavaScript / Rust Programmer
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,vite,rust,vscode,express,fediverse,materialui,fortran,arduino,cloudflare,docker,electron,emotion,git,heroku,linux,latex,md,mongodb,mysql,nodejs,nginx,ps,pr,postgres,raspberrypi,redis,redux,regex,sqlite,tailwind,workers,bash)](https://skillicons.dev)
+
+Gender:
+
 $$
-\mathrm{gender=mt}\Psi(x,y,z,t)
+\begin{aligned}
+\text{mt}\Psi(x,y,z,t),&&
+\lim\limits_{t\to\infty}\Psi^2=\text f
+\end{aligned}
 $$
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,vite,rust,vscode,express,fediverse,materialui,fortran,arduino,cloudflare,docker,electron,emotion,git,heroku,linux,latex,md,mongodb,mysql,nodejs,nginx,ps,pr,postgres,raspberrypi,redis,redux,regex,sqlite,tailwind,workers,bash)](https://skillicons.dev)
+Sexual orientation:
+
+$$
+\begin{aligned}
+\Psi'(x,y,z,t),&&
+\lim\limits_{t\to\infty}{\Psi'}^2=\text ?
+\end{aligned}
+$$
 
 [My Blog](https://stblog.penclub.club)
 
