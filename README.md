@@ -2,7 +2,7 @@
 
 ### TypeScript / JavaScript / Rust / Go Programmer
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,vite,rust,go,dart,kotlin,flutter,vscode,express,fediverse,materialui,fortran,arduino,cloudflare,docker,electron,emotion,git,heroku,jest,linux,latex,md,mongodb,mysql,nodejs,nginx,ps,pr,postgres,raspberrypi,redis,redux,regex,sqlite,tailwind,webpack,windicss,wordpress,workers,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,vite,rust,py,go,dart,kotlin,flutter,vscode,express,fediverse,materialui,fortran,arduino,cloudflare,docker,electron,emotion,git,heroku,jest,linux,latex,md,mongodb,mysql,nodejs,nginx,ps,pr,postgres,raspberrypi,redis,redux,regex,sqlite,tailwind,webpack,windicss,wordpress,workers,bash)](https://skillicons.dev)
 
 Gender:
 
